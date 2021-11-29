@@ -1,0 +1,10 @@
+The genes of the list AT5G04140 and AT4G37980 interact with each other 
+The genes of the list AT2G46340 and AT5G15850 interact with each other 
+The genes of the list AT4G22890 and AT4G02770 interact with each other 
+The genes of the list AT4G22890 and AT1G20020 interact with each other 
+The genes of the list AT4G37980 and AT5G04140 interact with each other 
+The genes of the list AT1G20020 and AT4G22890 interact with each other 
+The genes of the list AT5G15850 and AT2G46340 interact with each other 
+The genes of the list AT1G09340 and AT3G63140 interact with each other 
+The genes of the list AT3G63140 and AT1G09340 interact with each other 
+The genes of the list AT4G02770 and AT4G22890 interact with each other 
